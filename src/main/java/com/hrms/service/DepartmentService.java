@@ -113,7 +113,7 @@ public class DepartmentService {
                         .collect(Collectors.toList());
                 break;
             default:
-                System.out.println("Lựa chọn không hợp lệ!");
+                System.out.println("Lựa chọn hong hợp lệ!");
                 return;
         }
         

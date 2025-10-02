@@ -7,7 +7,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-
+//im here
 public class DepartmentService {
     private static final String FILE_PATH = "data/departments.txt";
     private List<Department> departments;
@@ -80,7 +80,7 @@ public class DepartmentService {
             return;
         }
         
-        System.out.printf("%-10s %-25s %-30s %-15s %-20s %-10s%n",
+        System.out.printf("%-10s %-25s %-30s %-15s %-20s %-10s%n", 
                 "Mã PB", "Tên phòng ban", "Mô tả", "Quản lý", "Địa điểm", "Số NV");
         System.out.println("=".repeat(120));
         

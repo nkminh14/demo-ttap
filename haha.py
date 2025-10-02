@@ -1,0 +1,1 @@
+print("Chao moi nguoi, minh la PHAN THI KHANH LINH , ok ")

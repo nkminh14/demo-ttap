@@ -1,0 +1,10 @@
+D001,Phòng Kỹ thuật,Phụ trách kỹ thuật,E003,Tầng 2,20
+D002,Phòng Nhân sự,Quản lý nhân sự,E002,Tầng 3,10
+D003,Phòng Tài chính,Quản lý tài chính,E006,Tầng 4,12
+D004,Phòng Marketing,Quảng bá sản phẩm,E005,Tầng 5,15
+D005,Phòng Kinh doanh,Phát triển kinh doanh,E009,Tầng 6,18
+D006,Phòng Hỗ trợ,Chăm sóc khách hàng,E007,Tầng 7,8
+D007,Phòng Hành chính,Quản lý hành chính,E008,Tầng 8,9
+D008,Phòng QA,Đảm bảo chất lượng,E010,Tầng 9,7
+D009,Phòng Sản phẩm,Phát triển sản phẩm,E004,Tầng 10,14
+D010,Phòng Thiết kế,Thiết kế giao diện,E001,Tầng 11,6

@@ -1,0 +1,10 @@
+E001,Nguyen Van A,nguyenvana@email.com,0123456781,Ha Noi,Nhan vien,IT,5000000,2023-01-01,FULLTIME
+E002,Tran Thi B,tranthib@email.com,0123456782,Ha Noi,Nhan vien,HR,4800000,2023-01-02,PARTTIME
+E003,Le Van C,levanc@email.com,0123456783,Ha Noi,Truong phong,Finance,7000000,2023-01-03,FULLTIME
+E004,Pham Thi D,phamthid@email.com,0123456784,Ha Noi,Nhan vien,IT,5100000,2023-01-04,FULLTIME
+E005,Hoang Van E,hoangvane@email.com,0123456785,Ha Noi,Nhan vien,Marketing,4900000,2023-01-05,PARTTIME
+E006,Nguyen Thi F,nguyenthif@email.com,0123456786,Ha Noi,Nhan vien,Finance,5200000,2023-01-06,FULLTIME
+E007,Tran Van G,tranvang@email.com,0123456787,Ha Noi,Nhan vien,HR,4800000,2023-01-07,FULLTIME
+E008,Le Thi H,lethih@email.com,0123456788,Ha Noi,Nhan vien,IT,5000000,2023-01-08,PARTTIME
+E009,Pham Van I,phamvani@email.com,0123456789,Ha Noi,Nhan vien,Marketing,4950000,2023-01-09,FULLTIME
+E010,Hoang Thi J,hoangthij@email.com,0123456790,Ha Noi,Nhan vien,Finance,5300000,2023-01-10,FULLTIME
